@@ -1,13 +1,13 @@
 import React from 'react';
 import './SearchItems.css';
-import pic from '../../../hotal1.JPG';
-import htl from '../../../bg4.jpg';
+import pic from '../../hotal1.JPG';
+import htl from '../../bg4.jpg';
 import { useNavigate } from 'react-router-dom';
 
 function SearchItems(props) {
 const Navigate=useNavigate();
     const Check=()=>{
-        Navigate('/B/Search/1');
+        Navigate('/Search/1');
     }
     return (
         <div className='SICont'>

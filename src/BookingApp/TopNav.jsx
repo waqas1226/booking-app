@@ -6,7 +6,7 @@ function TopNav(props) {
     return (
         <div className='topnav'>
                 <div className="row1 df al">
-        <h5 className="title">My Booking App</h5>
+        <h1 className="title">My Booking App</h1>
         <div className="r1buttons df al">
         <button className="register">Register</button>
         <button className="register">Login</button>

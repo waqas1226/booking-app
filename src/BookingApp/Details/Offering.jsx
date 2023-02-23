@@ -3,7 +3,7 @@ import './Offerings.css';
 import {Link, useNavigate, useLocation} from 'react-router-dom'
 import { Bed, CarRental, ChatBubbleOutline, Countertops, Flight, FullscreenExit, Language, LanguageOutlined, NotificationsNone, Search } from "@mui/icons-material";
 import { List } from "@mui/material";
-import pic from '../../../hotal1.JPG';
+import pic from '../../hotal1.JPG';
 
 const Offerings = () =>{
 return(

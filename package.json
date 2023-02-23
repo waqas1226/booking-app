@@ -1,5 +1,6 @@
 {
-  "name": "myapp",
+  "name": "bookin_app",
+  "homepage": "http://waqas1226.github.io/bookin_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,6 +19,7 @@
     "date-fns": "^2.29.3",
     "express": "^4.18.1",
     "firebase": "^9.11.0",
+    "gh-pages": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.6.1",
     "nodemon": "^2.0.20",
@@ -35,6 +37,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

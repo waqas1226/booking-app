@@ -81,7 +81,7 @@ function SearchOp(props) {
           </div>
         </div>}
       </div>
-      <Link className="register" to="/B/Search">Search</Link>
+      <Link className="register" to="/Search">Search</Link>
     </div>
 
   );

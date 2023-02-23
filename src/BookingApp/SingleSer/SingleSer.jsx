@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./SingleSer.css";
-import hotal1 from "../../../hotal1.JPG";
-import bg4 from "../../../bg4.jpg";
+import hotal1 from "../../hotal1.JPG";
+import bg4 from "../../bg4.jpg";
 import { ArrowBack, ArrowForward, ArrowRightOutlined, Close, LocationCity, LocationOn } from "@mui/icons-material";
 import BNavbar from "../BNavbar";
 import Subscribe from "../Subscribe/Subscribe";
