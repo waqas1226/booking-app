@@ -8,7 +8,7 @@ import SingleSer from "./BookingApp/SingleSer/SingleSer";
 
 function App() {
   useEffect(() => {
-    alert('This is UI part of complete MERN stack Booking App project. Please write destination and select date range and click "search" button, sample data will be displayed. Check availability, and Picture slides from displayed data by clicking any sample image in single Hotal page')
+    alert('This is UI part of complete MERN stack Booking App project. Please write destination and select date range and click "search" button, sample data will be displayed. Check availability, and Picture slides from displayed data by clicking any sample image in single Hotal page. For backend code please visit:https://github.com/waqas1226/My-Booking-App')
   }, []);
  
   return (
