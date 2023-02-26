@@ -1,6 +1,6 @@
 {
-  "name": "bookin_app",
-  "homepage": "http://waqas1226.github.io/bookin_app",
+  "name": "booking_app",
+  "homepage": "http://waqas1226.github.io/booking_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
