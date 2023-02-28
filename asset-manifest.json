@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bookin_app/static/css/main.ef93dff4.css",
-    "main.js": "/bookin_app/static/js/main.7ca3b76d.js",
-    "static/js/787.a87f9696.chunk.js": "/bookin_app/static/js/787.a87f9696.chunk.js",
-    "static/media/bg4.jpg": "/bookin_app/static/media/bg4.ccb8e7609a7c7f71c3d0.jpg",
-    "static/media/hotal1.JPG": "/bookin_app/static/media/hotal1.f3f78135ef6ac2da4221.JPG",
-    "index.html": "/bookin_app/index.html",
-    "main.ef93dff4.css.map": "/bookin_app/static/css/main.ef93dff4.css.map",
-    "main.7ca3b76d.js.map": "/bookin_app/static/js/main.7ca3b76d.js.map",
-    "787.a87f9696.chunk.js.map": "/bookin_app/static/js/787.a87f9696.chunk.js.map"
+    "main.css": "/booking-app/static/css/main.ef93dff4.css",
+    "main.js": "/booking-app/static/js/main.d6620af8.js",
+    "static/js/787.dca3c7cd.chunk.js": "/booking-app/static/js/787.dca3c7cd.chunk.js",
+    "static/media/bg4.jpg": "/booking-app/static/media/bg4.ccb8e7609a7c7f71c3d0.jpg",
+    "static/media/hotal1.JPG": "/booking-app/static/media/hotal1.f3f78135ef6ac2da4221.JPG",
+    "index.html": "/booking-app/index.html",
+    "main.ef93dff4.css.map": "/booking-app/static/css/main.ef93dff4.css.map",
+    "main.d6620af8.js.map": "/booking-app/static/js/main.d6620af8.js.map",
+    "787.dca3c7cd.chunk.js.map": "/booking-app/static/js/787.dca3c7cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef93dff4.css",
-    "static/js/main.7ca3b76d.js"
+    "static/js/main.d6620af8.js"
   ]
 }
