@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import "./App.css";
 import { HashRouter, Routes, Route } from "react-router-dom";
 
-import BNavbar from "./BookingApp/BNavbar";
+import BHome from "./BookingApp/BHome";
 import Search from "./BookingApp/Search/Search";
 import SingleSer from "./BookingApp/SingleSer/SingleSer";
 
@@ -17,7 +17,7 @@ function App() {
         {/* <Nav /> */}
         <Routes>
           <Route path="/">
-              <Route index element={<BNavbar />} />
+              <Route index element={<BHome />} />
 
               <Route path="Search">
                 <Route index element={<Search />} />

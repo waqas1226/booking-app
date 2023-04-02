@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: azure;
-    position: absolute;
+    position: relative;
     bottom: -70px;
     -webkit-box-shadow: 7px 5px 11px -2px rgba(0,0,0,0.27);
     box-shadow: 7px 5px 11px -2px rgba(0,0,0,0.27);
@@ -21,7 +21,7 @@
 }
 .members{
     border: 0.5px solid silver;
-width: 220px;
+width: 290px;
 display: flex;
 align-items: center;
 position: relative;

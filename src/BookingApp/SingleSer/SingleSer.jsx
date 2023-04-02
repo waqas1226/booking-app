@@ -3,7 +3,7 @@ import "./SingleSer.css";
 import hotal1 from "../../hotal1.JPG";
 import bg4 from "../../bg4.jpg";
 import { ArrowBack, ArrowForward, ArrowRightOutlined, Close, LocationCity, LocationOn } from "@mui/icons-material";
-import BNavbar from "../BNavbar";
+import BHome from "../BHome";
 import Subscribe from "../Subscribe/Subscribe";
 import Options from "../Subscribe/Options/Options";
 import SearchOp from "../Search/SearchOp/SearchOp";
@@ -41,7 +41,7 @@ console.log(index)
         <ArrowForward onClick={()=>handleMove('r')} className="sicon"/>
         </div>}
 
-        {/* <BNavbar/> */}
+        {/* <BHome/> */}
       <div className="SingleWrp">
         <div className="Singledetails">
           <h2 className="h2">Tower Street Apartments</h2>
